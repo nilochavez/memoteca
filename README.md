@@ -13,10 +13,10 @@ Briefly, MemoTeca is a platform to post, edit and delete (CRUD) memories, though
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)
 
 ## Development server
-Start API
-cd backend
-npm install
-npm start
+**Start API**<br>
+cd backend<br>
+npm install<br>
+npm start<br>
 
 Run `ng serve` for a dev server, or `ng serve --open` to automatically open in your web browser. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
