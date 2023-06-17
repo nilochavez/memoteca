@@ -1,0 +1,81 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Grêmio campeão",
+      "autoria": "NILO",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "conteudo": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+      "autoria": "LOREM IPSUM",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Angular is very good.",
+      "autoria": "GOOGLE",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 3
+    },
+    {
+      "conteudo": "I have a dream",
+      "autoria": "MARTIN L. KING",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "conteudo": "Na volta a gente compra!",
+      "autoria": "Mãe",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": 6,
+      "conteudo": "Vc faz TI? Conserta meu celular!",
+      "autoria": "Grupo da família",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "conteudo": "Já tentou reiniciar o roteador?",
+      "autoria": "Pessoa da operadora",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 7
+    },
+    {
+      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 8
+    },
+    {
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
+      "autoria": "CHAVES",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 11,
+      "conteudo": "Melhor professor, o fracasso é!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo2",
+      "favorito": true
+    }
+  ]
+}
